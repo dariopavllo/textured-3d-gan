@@ -24,7 +24,7 @@ For the datasets used in our work (ImageNet, CUB, Pascal3D+) we provide pre-comp
 ## Minimal setup (evaluating pretrained models)
 With this setup you will be able to evaluate our pretrained models (FID), generate qualitative demos, and export mesh samples that can be loaded into modelling tools (e.g. Blender), but you will not be able to train a new model from scratch. 
 
-It suffices to download the pretrained models and cache directory from the [Releases](https://github.com/dariopavllo/convmesh2/releases) section, and extract the archives to the root directory of this repo. You do not need to set up any dataset.
+It suffices to download the pretrained models and cache directory from the [Releases](https://github.com/dariopavllo/textured-3d-gan/releases) section, and extract the archives to the root directory of this repo. You do not need to set up any dataset.
 
 ## Full dataset setup (training from scratch)
 If you have not already done so, set up the cache directory as described in the step above.
