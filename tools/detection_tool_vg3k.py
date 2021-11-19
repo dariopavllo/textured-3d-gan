@@ -14,6 +14,7 @@ import time
 
 from caffe2.python import workspace
 
+sys.path.append('lib')
 from core.config import assert_and_infer_cfg
 from core.config import cfg
 from core.config import merge_cfg_from_file
